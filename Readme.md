@@ -15,6 +15,10 @@ This front-end layout was created to try to improve my English and put my knowle
 **Image Render(SmillaEnlarger)**
 * https://www.edivaldobrito.com.br/smillaenlarger-redimensionar-imagens/
 
+**Images Paralax**
+* https://pixabay.com/pt/photos/farol-oceano-mar-costa-viagens-1872998/
+* https://unsplash.com/photos/azIO-XUkfok
+
 **Images City**
 * https://pixabay.com/pt/photos/toronto-canad%C3%A1-torre-cn-1426205/
 * https://unsplash.com/photos/5Cv3surFZM8
