@@ -165,3 +165,36 @@
   position: relative;
   margin-bottom: 30px;
 }
+
+/* Banner */
+.banner {
+  height: 85vh;
+  background-image: url(img/paralax-two.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 12%;
+}
+
+.banner-highlights {
+  padding: 70px 0;
+  background: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  color: #fff;
+}
+
+.booking {
+  width: 120px;
+  padding: 8px 0;
+  outline: none !important;
+  border: 2px solid #fff;
+  border-radius: 50px;
+  background: transparent;
+  color: #fff;
+  margin-top: 20px;
+}
+.booking:hover {
+  background: #fff;
+  color: rgb(49, 49, 49);
+  border: 2px solid rgb(187, 187, 187) !important;
+}
